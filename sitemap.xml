@@ -1,14 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<url>
-  <loc>http://dealwithweight.com/</loc>
-  <lastmod>2019-01-03T19:07:44+00:00</lastmod>
-</url>
-
-
+  <url>
+       <loc>http://dealwithweight.com/</loc>
+       <lastmod>2019-02-04T15:45:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>http://dealwithweight.com/blog/</loc>
+       <lastmod>2019-02-04T15:45:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>http://dealwithweight.com/blog/index.xml</loc>
+       <lastmod>2019-02-04T15:45:41+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>http://dealwithweight.com/blog/posts/</loc>
+       <lastmod>2019-02-04T15:45:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>http://dealwithweight.com/blog/posts/nutritionsolutions-week2/</loc>
+       <lastmod>2019-02-04T15:45:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>http://dealwithweight.com/blog/posts/nutritionsolutions/</loc>
+       <lastmod>2019-02-04T15:45:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>http://dealwithweight.com/blog/posts/index.xml</loc>
+       <lastmod>2019-02-04T15:45:41+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>http://dealwithweight.com/blog/categories/weight-loss/</loc>
+       <lastmod>2019-02-04T15:45:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>http://dealwithweight.com/blog/tags/nutrition-solutions/</loc>
+       <lastmod>2019-02-04T15:45:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>http://dealwithweight.com/blog/categories/weight-loss/index.xml</loc>
+       <lastmod>2019-02-04T15:45:41+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>http://dealwithweight.com/blog/categories/</loc>
+       <lastmod>2019-02-04T15:45:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>http://dealwithweight.com/blog/tags/nutrition-solutions/index.xml</loc>
+       <lastmod>2019-02-04T15:45:41+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>http://dealwithweight.com/blog/tags/</loc>
+       <lastmod>2019-02-04T15:45:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>http://dealwithweight.com/blog/categories/index.xml</loc>
+       <lastmod>2019-02-04T15:45:41+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
+  <url>
+       <loc>http://dealwithweight.com/blog/tags/index.xml</loc>
+       <lastmod>2019-02-04T15:45:41+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
 </urlset>

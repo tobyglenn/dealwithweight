@@ -1,1 +1,15 @@
 http://dealwithweight.com/
+http://dealwithweight.com/blog/
+http://dealwithweight.com/blog/index.xml
+http://dealwithweight.com/blog/posts/
+http://dealwithweight.com/blog/posts/nutritionsolutions-week2/
+http://dealwithweight.com/blog/posts/nutritionsolutions/
+http://dealwithweight.com/blog/posts/index.xml
+http://dealwithweight.com/blog/categories/weight-loss/
+http://dealwithweight.com/blog/tags/nutrition-solutions/
+http://dealwithweight.com/blog/categories/weight-loss/index.xml
+http://dealwithweight.com/blog/categories/
+http://dealwithweight.com/blog/tags/nutrition-solutions/index.xml
+http://dealwithweight.com/blog/tags/
+http://dealwithweight.com/blog/categories/index.xml
+http://dealwithweight.com/blog/tags/index.xml
